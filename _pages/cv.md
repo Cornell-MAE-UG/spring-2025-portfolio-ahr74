@@ -1,70 +1,55 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Ava Rosenow - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ assets/Ava Rosenow Resume 2025.pdf"}}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
-
----
-
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+**Email:** [ahr74@cornell.edu](mailto:ahr74@cornell.edu) | | | **Phone:** +312 848 9169
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
+- **The Latin School of Chicago**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [May, 2023]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS, HSMWorks
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing, Laser Cutting, Manual Machining, Hand Tools, TIG Welding  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Cornell Baja Racing Welding Fixtures**:  
+  *Designed welding fixtures for all frame, suspension, and drivetrain components for 2024 - 2025 car*
+  - Saved 50+ hours of machining time
+  - Improved overall tolerance stack
+  - Decreased cost by more than $1100    
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
+- **Cornell Baja Racing Engine Subframes**:  
+  *Designed engine subframes for 2024 - 2025 car using FEA to optimize for vibrational loading and fatigue characteristics.*    
+  - Decreased weight while improving FOS in both bending and fatigue  
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- Grassroots Referee, Illinois Soccer Association, 2018 
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell Baja Racing Student Project Team
+- Cornell Recreation Services Intramural Referee 
 
 ---
 
